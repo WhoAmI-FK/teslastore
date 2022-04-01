@@ -1,0 +1,29 @@
+[{
+        "id": "1",
+        "name": "2021 Roadster",
+        "description": "Touted to make its return to the lineup in 2021, the new Tesla Roadster picks up where the old model left off.",
+        "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/11/Tesla-Roadster-103.jpg?fill=16:9&resize=480:*",
+        "price": "200000$"
+    },
+    {
+        "id": "2",
+        "name": "2022 Cybertruck",
+        "description": "The Tesla Cybertruck looks like it was dropped off by an alien race, but it has the capabilities to challenge all of the top-selling pickup trucks.",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-tesla-cyber-truck-mmp-1-1579127142.jpg?crop=0.588xw:1.00xh;0.0962xw,0&resize=1200:*",
+        "price": "39900$"
+    },
+    {
+        "id": "3",
+        "name": "2021 Model Y",
+        "description": "The latest from Tesla is the all-electric Model Y compact SUV, which shares its platform and most of its cabin with the Model 3 sedan but has more cargo space.",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-tesla-model-y-mmp-1-1604701558.jpg?crop=0.938127632005183xw:1xh;center,top&resize=480:*",
+        "price": "41190$"
+    },
+    {
+        "id": "4",
+        "name": "2021 Model X",
+        "description": "As the SUV cousin of the Model S sedan, the 2021 Tesla Model X might be the greenest—and one of the fastest—ways to tote up to seven people or lots of cargo.",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-01-27-at-6-16-08-pm-1611789398.png?crop=1xw:0.9718279258400927xh;center,top&resize=480:*",
+        "price": "91190$"
+    }
+]
